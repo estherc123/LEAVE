@@ -1,0 +1,2 @@
+C:\Users\yuche\Desktop\Game design decal\Point and Click Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\yuche\Desktop\Game design decal\Point and Click Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
